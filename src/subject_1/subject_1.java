@@ -23,6 +23,7 @@ class Tosum {
         }
         return null;
     }
+    
     public void print(int []result){
         out.print("[");
         for(int i=result.length-1;i>-1;i--){
