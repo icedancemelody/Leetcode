@@ -23,7 +23,7 @@ class Tosum {
         }
         return null;
     }
-    
+
     public void print(int []result){
         out.print("[");
         for(int i=result.length-1;i>-1;i--){
@@ -37,7 +37,7 @@ class Tosum {
     }
 }
 
-class MainTest{
+class MainTest1{
 
     public static void main(String[] args) {
         Scanner ms=new Scanner(System.in);
