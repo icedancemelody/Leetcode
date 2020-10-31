@@ -2,7 +2,7 @@ package subject_7;
 
 
 import java.util.*;
-//这题主要是要注意移除问题，这里只用了*10再/10是否相等一步就解决了，非常nb啊非常nb。
+//这题主要是要注意溢出问题，这里只用了*10再/10是否相等一步就解决了，非常nb啊非常nb。
 
 class Solution {
     public int reverse(int x) {
